@@ -8,9 +8,6 @@
 <a href="https://www.reddit.com/user/hlsjunior/">
   <img align="left" alt="Tanay's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a> 
-
-<br>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=tneotia.tneotia)
 
 <br />
