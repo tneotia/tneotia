@@ -51,9 +51,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/xrb21/flutter-html-editor/issues/32) in [xrb21/flutter-html-editor](https://github.com/xrb21/flutter-html-editor)
-2. ❗️ Opened issue [#4537](https://github.com/dart-lang/pub-dev/issues/4537) in [dart-lang/pub-dev](https://github.com/dart-lang/pub-dev)
-3. 🗣 Commented on [#468](https://github.com/Sub6Resources/flutter_html/issues/468) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
-4. 💪 Opened PR [#12](https://github.com/Sub6Resources/chewie_audio/pull/12) in [Sub6Resources/chewie_audio](https://github.com/Sub6Resources/chewie_audio)
-5. 🗣 Commented on [#468](https://github.com/Sub6Resources/flutter_html/issues/468) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+1. 🗣 Commented on [#37](https://github.com/xrb21/flutter-html-editor/issues/37) in [xrb21/flutter-html-editor](https://github.com/xrb21/flutter-html-editor)
+2. 🗣 Commented on [#32](https://github.com/xrb21/flutter-html-editor/issues/32) in [xrb21/flutter-html-editor](https://github.com/xrb21/flutter-html-editor)
+3. ❗️ Opened issue [#4537](https://github.com/dart-lang/pub-dev/issues/4537) in [dart-lang/pub-dev](https://github.com/dart-lang/pub-dev)
+4. 🗣 Commented on [#468](https://github.com/Sub6Resources/flutter_html/issues/468) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+5. 💪 Opened PR [#12](https://github.com/Sub6Resources/chewie_audio/pull/12) in [Sub6Resources/chewie_audio](https://github.com/Sub6Resources/chewie_audio)
 <!--END_SECTION:activity-->
