@@ -52,8 +52,8 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#673](https://github.com/pichillilorenzo/flutter_inappwebview/issues/673) in [pichillilorenzo/flutter_inappwebview](https://github.com/pichillilorenzo/flutter_inappwebview)
-2. 🗣 Commented on [#37](https://github.com/xrb21/flutter-html-editor/issues/37) in [xrb21/flutter-html-editor](https://github.com/xrb21/flutter-html-editor)
-3. 🗣 Commented on [#32](https://github.com/xrb21/flutter-html-editor/issues/32) in [xrb21/flutter-html-editor](https://github.com/xrb21/flutter-html-editor)
-4. ❗️ Opened issue [#4537](https://github.com/dart-lang/pub-dev/issues/4537) in [dart-lang/pub-dev](https://github.com/dart-lang/pub-dev)
-5. 🗣 Commented on [#468](https://github.com/Sub6Resources/flutter_html/issues/468) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+2. 🗣 Commented on [#673](https://github.com/pichillilorenzo/flutter_inappwebview/issues/673) in [pichillilorenzo/flutter_inappwebview](https://github.com/pichillilorenzo/flutter_inappwebview)
+3. 🗣 Commented on [#37](https://github.com/xrb21/flutter-html-editor/issues/37) in [xrb21/flutter-html-editor](https://github.com/xrb21/flutter-html-editor)
+4. 🗣 Commented on [#32](https://github.com/xrb21/flutter-html-editor/issues/32) in [xrb21/flutter-html-editor](https://github.com/xrb21/flutter-html-editor)
+5. ❗️ Opened issue [#4537](https://github.com/dart-lang/pub-dev/issues/4537) in [dart-lang/pub-dev](https://github.com/dart-lang/pub-dev)
 <!--END_SECTION:activity-->
