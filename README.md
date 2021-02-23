@@ -51,9 +51,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/xrb21/flutter-html-editor/issues/10) in [xrb21/flutter-html-editor](https://github.com/xrb21/flutter-html-editor)
-2. 🗣 Commented on [#6](https://github.com/xrb21/flutter-html-editor/issues/6) in [xrb21/flutter-html-editor](https://github.com/xrb21/flutter-html-editor)
-3. 🗣 Commented on [#4](https://github.com/xrb21/flutter-html-editor/issues/4) in [xrb21/flutter-html-editor](https://github.com/xrb21/flutter-html-editor)
-4. 🗣 Commented on [#8](https://github.com/xrb21/flutter-html-editor/issues/8) in [xrb21/flutter-html-editor](https://github.com/xrb21/flutter-html-editor)
-5. 🗣 Commented on [#4537](https://github.com/dart-lang/pub-dev/issues/4537) in [dart-lang/pub-dev](https://github.com/dart-lang/pub-dev)
+1. 🗣 Commented on [#552](https://github.com/Sub6Resources/flutter_html/issues/552) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+2. 🗣 Commented on [#552](https://github.com/Sub6Resources/flutter_html/issues/552) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+3. 🗣 Commented on [#555](https://github.com/Sub6Resources/flutter_html/issues/555) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+4. 🗣 Commented on [#554](https://github.com/Sub6Resources/flutter_html/issues/554) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+5. 🗣 Commented on [#10](https://github.com/xrb21/flutter-html-editor/issues/10) in [xrb21/flutter-html-editor](https://github.com/xrb21/flutter-html-editor)
 <!--END_SECTION:activity-->
