@@ -14,8 +14,6 @@
 <br />
 
 Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying Mechanical Engineering at the Georgia Institute of Technology. 
-
-  <img align="right" alt="GIF" src="https://www.appliedsynergy.tech/images/gifs/mobile-app-tab2.gif" width="400" height="300" />
   
 **Talking about Personal Stuffs:**
 
