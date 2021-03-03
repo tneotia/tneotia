@@ -51,7 +51,7 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#565](https://github.com/Sub6Resources/flutter_html/issues/565) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
 2. 🗣 Commented on [#565](https://github.com/Sub6Resources/flutter_html/issues/565) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
-3. 💪 Opened PR [#1](https://github.com/tneotia/html-editor-enhanced/pull/1) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-4. 🗣 Commented on [#695](https://github.com/pichillilorenzo/flutter_inappwebview/issues/695) in [pichillilorenzo/flutter_inappwebview](https://github.com/pichillilorenzo/flutter_inappwebview)
-5. ❗️ Opened issue [#695](https://github.com/pichillilorenzo/flutter_inappwebview/issues/695) in [pichillilorenzo/flutter_inappwebview](https://github.com/pichillilorenzo/flutter_inappwebview)
+3. 🗣 Commented on [#565](https://github.com/Sub6Resources/flutter_html/issues/565) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+4. 💪 Opened PR [#1](https://github.com/tneotia/html-editor-enhanced/pull/1) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+5. 🗣 Commented on [#695](https://github.com/pichillilorenzo/flutter_inappwebview/issues/695) in [pichillilorenzo/flutter_inappwebview](https://github.com/pichillilorenzo/flutter_inappwebview)
 <!--END_SECTION:activity-->
