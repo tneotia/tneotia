@@ -49,9 +49,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#49](https://github.com/fluttercandies/like_button/issues/49) in [fluttercandies/like_button](https://github.com/fluttercandies/like_button)
-2. ❗️ Opened issue [#58](https://github.com/sidlatau/flutter_email_sender/issues/58) in [sidlatau/flutter_email_sender](https://github.com/sidlatau/flutter_email_sender)
-3. ❗️ Opened issue [#21](https://github.com/subhamayd2/day_night_time_picker/issues/21) in [subhamayd2/day_night_time_picker](https://github.com/subhamayd2/day_night_time_picker)
-4. 🗣 Commented on [#565](https://github.com/Sub6Resources/flutter_html/issues/565) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
-5. 🗣 Commented on [#565](https://github.com/Sub6Resources/flutter_html/issues/565) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+1. ❗️ Closed issue [#101](https://github.com/avioli/uni_links/issues/101) in [avioli/uni_links](https://github.com/avioli/uni_links)
+2. ❗️ Opened issue [#101](https://github.com/avioli/uni_links/issues/101) in [avioli/uni_links](https://github.com/avioli/uni_links)
+3. 🗣 Commented on [#133](https://github.com/syncfusion/flutter-widgets/issues/133) in [syncfusion/flutter-widgets](https://github.com/syncfusion/flutter-widgets)
+4. ❗️ Opened issue [#49](https://github.com/fluttercandies/like_button/issues/49) in [fluttercandies/like_button](https://github.com/fluttercandies/like_button)
+5. ❗️ Opened issue [#58](https://github.com/sidlatau/flutter_email_sender/issues/58) in [sidlatau/flutter_email_sender](https://github.com/sidlatau/flutter_email_sender)
 <!--END_SECTION:activity-->
