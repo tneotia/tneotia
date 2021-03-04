@@ -49,9 +49,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#548](https://github.com/Sub6Resources/flutter_html/issues/548) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
-2. ❗️ Closed issue [#101](https://github.com/avioli/uni_links/issues/101) in [avioli/uni_links](https://github.com/avioli/uni_links)
-3. ❗️ Opened issue [#101](https://github.com/avioli/uni_links/issues/101) in [avioli/uni_links](https://github.com/avioli/uni_links)
-4. 🗣 Commented on [#133](https://github.com/syncfusion/flutter-widgets/issues/133) in [syncfusion/flutter-widgets](https://github.com/syncfusion/flutter-widgets)
-5. ❗️ Opened issue [#49](https://github.com/fluttercandies/like_button/issues/49) in [fluttercandies/like_button](https://github.com/fluttercandies/like_button)
+1. 🗣 Commented on [#568](https://github.com/Sub6Resources/flutter_html/issues/568) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+2. 🗣 Commented on [#569](https://github.com/Sub6Resources/flutter_html/issues/569) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+3. 🗣 Commented on [#548](https://github.com/Sub6Resources/flutter_html/issues/548) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+4. ❗️ Closed issue [#101](https://github.com/avioli/uni_links/issues/101) in [avioli/uni_links](https://github.com/avioli/uni_links)
+5. ❗️ Opened issue [#101](https://github.com/avioli/uni_links/issues/101) in [avioli/uni_links](https://github.com/avioli/uni_links)
 <!--END_SECTION:activity-->
