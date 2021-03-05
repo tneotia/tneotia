@@ -49,9 +49,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/Sub6Resources/chewie_audio/issues/13) in [Sub6Resources/chewie_audio](https://github.com/Sub6Resources/chewie_audio)
-2. 🗣 Commented on [#569](https://github.com/Sub6Resources/flutter_html/issues/569) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
-3. 🗣 Commented on [#12](https://github.com/Sub6Resources/chewie_audio/issues/12) in [Sub6Resources/chewie_audio](https://github.com/Sub6Resources/chewie_audio)
-4. 🗣 Commented on [#570](https://github.com/Sub6Resources/flutter_html/issues/570) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+1. ❌ Closed PR [#509](https://github.com/Sub6Resources/flutter_html/pull/509) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+2. 🗣 Commented on [#509](https://github.com/Sub6Resources/flutter_html/issues/509) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+3. 🗣 Commented on [#399](https://github.com/Sub6Resources/flutter_html/issues/399) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+4. 🗣 Commented on [#13](https://github.com/Sub6Resources/chewie_audio/issues/13) in [Sub6Resources/chewie_audio](https://github.com/Sub6Resources/chewie_audio)
 5. 🗣 Commented on [#569](https://github.com/Sub6Resources/flutter_html/issues/569) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
 <!--END_SECTION:activity-->
