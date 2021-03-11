@@ -49,9 +49,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/tneotia/html-editor-enhanced/issues/4) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-2. 🗣 Commented on [#4537](https://github.com/dart-lang/pub-dev/issues/4537) in [dart-lang/pub-dev](https://github.com/dart-lang/pub-dev)
-3. 🎉 Merged PR [#3](https://github.com/tneotia/html-editor-enhanced/pull/3) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-4. 💪 Opened PR [#3](https://github.com/tneotia/html-editor-enhanced/pull/3) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-5. 🗣 Commented on [#22](https://github.com/chandrabezzo/flutter_summernote/issues/22) in [chandrabezzo/flutter_summernote](https://github.com/chandrabezzo/flutter_summernote)
+1. 🎉 Merged PR [#5](https://github.com/tneotia/html-editor-enhanced/pull/5) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+2. 💪 Opened PR [#5](https://github.com/tneotia/html-editor-enhanced/pull/5) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+3. 🗣 Commented on [#4](https://github.com/tneotia/html-editor-enhanced/issues/4) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+4. 🗣 Commented on [#4537](https://github.com/dart-lang/pub-dev/issues/4537) in [dart-lang/pub-dev](https://github.com/dart-lang/pub-dev)
+5. 🎉 Merged PR [#3](https://github.com/tneotia/html-editor-enhanced/pull/3) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
 <!--END_SECTION:activity-->
