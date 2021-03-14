@@ -35,16 +35,16 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 
 📊 **This Week I Spent My Time On:**
 
-<p> <img src="https://github-readme-stats.tneotia.vercel.app/api/wakatime?username=tneotia&theme=dark" alt="tneotia" />
+<p> <img src="https://github-readme-stats.tneotia.vercel.app/api/wakatime?username=tneotia&theme=dark" alt="tneotia" /> </p>
 
 👨‍💻 **My Top Languages**
 
-<p> <img src="https://github-readme-stats.tneotia.vercel.app/api/top-langs/?username=tneotia&theme=dark" alt="tneotia" />
+<p> <img src="https://github-readme-stats.tneotia.vercel.app/api/top-langs/?username=tneotia&theme=dark" alt="tneotia" /> </p>
 
 
 📈 **My GitHub Stats**
 
-<p> <img src="https://github-readme-stats.tneotia.vercel.app/api?username=tneotia&show_icons=true&count_private=true&theme=dark" alt="tneotia" />
+<p> <img src="https://github-readme-stats.tneotia.vercel.app/api?username=tneotia&show_icons=true&count_private=true&theme=dark" alt="tneotia" /> </p>
   
 :zap: **Recent Activity**
 
