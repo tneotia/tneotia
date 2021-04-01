@@ -49,9 +49,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/chandrabezzo/flutter_summernote/issues/31) in [chandrabezzo/flutter_summernote](https://github.com/chandrabezzo/flutter_summernote)
-2. 🗣 Commented on [#32](https://github.com/chandrabezzo/flutter_summernote/issues/32) in [chandrabezzo/flutter_summernote](https://github.com/chandrabezzo/flutter_summernote)
-3. 🗣 Commented on [#749](https://github.com/pichillilorenzo/flutter_inappwebview/issues/749) in [pichillilorenzo/flutter_inappwebview](https://github.com/pichillilorenzo/flutter_inappwebview)
-4. 🗣 Commented on [#19](https://github.com/tneotia/html-editor-enhanced/issues/19) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-5. 💪 Opened PR [#83](https://github.com/summernote/awesome-summernote/pull/83) in [summernote/awesome-summernote](https://github.com/summernote/awesome-summernote)
+1. ❗️ Closed issue [#19](https://github.com/tneotia/html-editor-enhanced/issues/19) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+2. 🗣 Commented on [#19](https://github.com/tneotia/html-editor-enhanced/issues/19) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+3. 🗣 Commented on [#31](https://github.com/chandrabezzo/flutter_summernote/issues/31) in [chandrabezzo/flutter_summernote](https://github.com/chandrabezzo/flutter_summernote)
+4. 🗣 Commented on [#32](https://github.com/chandrabezzo/flutter_summernote/issues/32) in [chandrabezzo/flutter_summernote](https://github.com/chandrabezzo/flutter_summernote)
+5. 🗣 Commented on [#749](https://github.com/pichillilorenzo/flutter_inappwebview/issues/749) in [pichillilorenzo/flutter_inappwebview](https://github.com/pichillilorenzo/flutter_inappwebview)
 <!--END_SECTION:activity-->
