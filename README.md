@@ -49,9 +49,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/hurshi/dio-http-cache/issues/84) in [hurshi/dio-http-cache](https://github.com/hurshi/dio-http-cache)
-2. 🗣 Commented on [#749](https://github.com/pichillilorenzo/flutter_inappwebview/issues/749) in [pichillilorenzo/flutter_inappwebview](https://github.com/pichillilorenzo/flutter_inappwebview)
-3. 🗣 Commented on [#590](https://github.com/Sub6Resources/flutter_html/issues/590) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
-4. 🗣 Commented on [#596](https://github.com/Sub6Resources/flutter_html/issues/596) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
-5. 🗣 Commented on [#602](https://github.com/Sub6Resources/flutter_html/issues/602) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+1. ❗️ Opened issue [#455](https://github.com/aleksanderwozniak/table_calendar/issues/455) in [aleksanderwozniak/table_calendar](https://github.com/aleksanderwozniak/table_calendar)
+2. 🗣 Commented on [#84](https://github.com/hurshi/dio-http-cache/issues/84) in [hurshi/dio-http-cache](https://github.com/hurshi/dio-http-cache)
+3. 🗣 Commented on [#749](https://github.com/pichillilorenzo/flutter_inappwebview/issues/749) in [pichillilorenzo/flutter_inappwebview](https://github.com/pichillilorenzo/flutter_inappwebview)
+4. 🗣 Commented on [#590](https://github.com/Sub6Resources/flutter_html/issues/590) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+5. 🗣 Commented on [#596](https://github.com/Sub6Resources/flutter_html/issues/596) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
 <!--END_SECTION:activity-->
