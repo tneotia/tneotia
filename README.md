@@ -49,9 +49,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#779](https://github.com/pichillilorenzo/flutter_inappwebview/issues/779) in [pichillilorenzo/flutter_inappwebview](https://github.com/pichillilorenzo/flutter_inappwebview)
-2. ❗️ Closed issue [#455](https://github.com/aleksanderwozniak/table_calendar/issues/455) in [aleksanderwozniak/table_calendar](https://github.com/aleksanderwozniak/table_calendar)
-3. 🗣 Commented on [#455](https://github.com/aleksanderwozniak/table_calendar/issues/455) in [aleksanderwozniak/table_calendar](https://github.com/aleksanderwozniak/table_calendar)
-4. ❗️ Opened issue [#455](https://github.com/aleksanderwozniak/table_calendar/issues/455) in [aleksanderwozniak/table_calendar](https://github.com/aleksanderwozniak/table_calendar)
-5. 🗣 Commented on [#84](https://github.com/hurshi/dio-http-cache/issues/84) in [hurshi/dio-http-cache](https://github.com/hurshi/dio-http-cache)
+1. ❗️ Closed issue [#779](https://github.com/pichillilorenzo/flutter_inappwebview/issues/779) in [pichillilorenzo/flutter_inappwebview](https://github.com/pichillilorenzo/flutter_inappwebview)
+2. 🗣 Commented on [#779](https://github.com/pichillilorenzo/flutter_inappwebview/issues/779) in [pichillilorenzo/flutter_inappwebview](https://github.com/pichillilorenzo/flutter_inappwebview)
+3. ❗️ Opened issue [#779](https://github.com/pichillilorenzo/flutter_inappwebview/issues/779) in [pichillilorenzo/flutter_inappwebview](https://github.com/pichillilorenzo/flutter_inappwebview)
+4. ❗️ Closed issue [#455](https://github.com/aleksanderwozniak/table_calendar/issues/455) in [aleksanderwozniak/table_calendar](https://github.com/aleksanderwozniak/table_calendar)
+5. 🗣 Commented on [#455](https://github.com/aleksanderwozniak/table_calendar/issues/455) in [aleksanderwozniak/table_calendar](https://github.com/aleksanderwozniak/table_calendar)
 <!--END_SECTION:activity-->
