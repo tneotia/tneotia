@@ -49,9 +49,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#629](https://github.com/Sub6Resources/flutter_html/issues/629) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
-2. 🗣 Commented on [#572](https://github.com/Sub6Resources/flutter_html/issues/572) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
-3. 🗣 Commented on [#580](https://github.com/Sub6Resources/flutter_html/issues/580) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
-4. 🗣 Commented on [#584](https://github.com/Sub6Resources/flutter_html/issues/584) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
-5. 🗣 Commented on [#588](https://github.com/Sub6Resources/flutter_html/issues/588) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+1. 💪 Opened PR [#631](https://github.com/Sub6Resources/flutter_html/pull/631) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+2. 💪 Opened PR [#630](https://github.com/Sub6Resources/flutter_html/pull/630) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+3. 🗣 Commented on [#629](https://github.com/Sub6Resources/flutter_html/issues/629) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+4. 🗣 Commented on [#572](https://github.com/Sub6Resources/flutter_html/issues/572) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+5. 🗣 Commented on [#580](https://github.com/Sub6Resources/flutter_html/issues/580) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
 <!--END_SECTION:activity-->
