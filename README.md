@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/tneotia/">
   <img align="left" alt="Tanay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -14,13 +14,11 @@
 <br />
 
 Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying Mechanical Engineering at the Georgia Institute of Technology. 
-  
-**Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [HLS Grades](https://github.com/tneotia/HLSGrades)
 - 🌱 I’m currently learning Flutter and Dart
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [tanay@neotia.in](mailto://tanay@neotia.in)
+- 📫 How to reach me: [tanay at neotia dot in](mailto://tanay@neotia.in)
 - 📝[Resume](https://drive.google.com/file/d/1zlV1XXz1qV1TZeIYtkQ2bvopnYlI753g/view?usp=sharing)
 
 **Languages and Tools:**  
@@ -33,7 +31,7 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-📊 **This Week I Spent My Time On:**
+📊 **My Week Stats**
 
 <p> <img src="https://github-readme-stats.tneotia.vercel.app/api/wakatime?username=tneotia&theme=dark" alt="tneotia" /> </p>
 
