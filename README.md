@@ -47,9 +47,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#646](https://github.com/Sub6Resources/flutter_html/issues/646) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
-2. 🗣 Commented on [#27](https://github.com/subhamayd2/day_night_time_picker/issues/27) in [subhamayd2/day_night_time_picker](https://github.com/subhamayd2/day_night_time_picker)
-3. ❗️ Closed issue [#46](https://github.com/tneotia/html-editor-enhanced/issues/46) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-4. 🗣 Commented on [#688](https://github.com/Sub6Resources/flutter_html/issues/688) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
-5. 🗣 Commented on [#694](https://github.com/Sub6Resources/flutter_html/issues/694) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+1. ❗️ Opened issue [#511](https://github.com/aleksanderwozniak/table_calendar/issues/511) in [aleksanderwozniak/table_calendar](https://github.com/aleksanderwozniak/table_calendar)
+2. 🗣 Commented on [#646](https://github.com/Sub6Resources/flutter_html/issues/646) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+3. 🗣 Commented on [#27](https://github.com/subhamayd2/day_night_time_picker/issues/27) in [subhamayd2/day_night_time_picker](https://github.com/subhamayd2/day_night_time_picker)
+4. ❗️ Closed issue [#46](https://github.com/tneotia/html-editor-enhanced/issues/46) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+5. 🗣 Commented on [#688](https://github.com/Sub6Resources/flutter_html/issues/688) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
 <!--END_SECTION:activity-->
