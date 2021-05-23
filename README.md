@@ -47,9 +47,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#511](https://github.com/aleksanderwozniak/table_calendar/issues/511) in [aleksanderwozniak/table_calendar](https://github.com/aleksanderwozniak/table_calendar)
-2. 🗣 Commented on [#511](https://github.com/aleksanderwozniak/table_calendar/issues/511) in [aleksanderwozniak/table_calendar](https://github.com/aleksanderwozniak/table_calendar)
-3. ❗️ Opened issue [#511](https://github.com/aleksanderwozniak/table_calendar/issues/511) in [aleksanderwozniak/table_calendar](https://github.com/aleksanderwozniak/table_calendar)
-4. 🗣 Commented on [#646](https://github.com/Sub6Resources/flutter_html/issues/646) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
-5. 🗣 Commented on [#27](https://github.com/subhamayd2/day_night_time_picker/issues/27) in [subhamayd2/day_night_time_picker](https://github.com/subhamayd2/day_night_time_picker)
+1. ❌ Closed PR [#679](https://github.com/Sub6Resources/flutter_html/pull/679) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+2. 🗣 Commented on [#679](https://github.com/Sub6Resources/flutter_html/issues/679) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+3. ❗️ Closed issue [#511](https://github.com/aleksanderwozniak/table_calendar/issues/511) in [aleksanderwozniak/table_calendar](https://github.com/aleksanderwozniak/table_calendar)
+4. 🗣 Commented on [#511](https://github.com/aleksanderwozniak/table_calendar/issues/511) in [aleksanderwozniak/table_calendar](https://github.com/aleksanderwozniak/table_calendar)
+5. ❗️ Opened issue [#511](https://github.com/aleksanderwozniak/table_calendar/issues/511) in [aleksanderwozniak/table_calendar](https://github.com/aleksanderwozniak/table_calendar)
 <!--END_SECTION:activity-->
