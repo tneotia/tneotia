@@ -47,9 +47,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/xrb21/flutter-html-editor/issues/8) in [xrb21/flutter-html-editor](https://github.com/xrb21/flutter-html-editor)
-2. ❗️ Closed issue [#38](https://github.com/tneotia/html-editor-enhanced/issues/38) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-3. 🗣 Commented on [#38](https://github.com/tneotia/html-editor-enhanced/issues/38) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-4. 🗣 Commented on [#697](https://github.com/Sub6Resources/flutter_html/issues/697) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
-5. 🗣 Commented on [#572](https://github.com/Sub6Resources/flutter_html/issues/572) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+1. 🗣 Commented on [#701](https://github.com/Sub6Resources/flutter_html/issues/701) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+2. 🗣 Commented on [#8](https://github.com/xrb21/flutter-html-editor/issues/8) in [xrb21/flutter-html-editor](https://github.com/xrb21/flutter-html-editor)
+3. ❗️ Closed issue [#38](https://github.com/tneotia/html-editor-enhanced/issues/38) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+4. 🗣 Commented on [#38](https://github.com/tneotia/html-editor-enhanced/issues/38) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+5. 🗣 Commented on [#697](https://github.com/Sub6Resources/flutter_html/issues/697) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
 <!--END_SECTION:activity-->
