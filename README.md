@@ -49,7 +49,7 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#711](https://github.com/Sub6Resources/flutter_html/issues/711) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
 2. 🗣 Commented on [#711](https://github.com/Sub6Resources/flutter_html/issues/711) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
-3. 🗣 Commented on [#8](https://github.com/DavBfr/flutter_pref/issues/8) in [DavBfr/flutter_pref](https://github.com/DavBfr/flutter_pref)
-4. ❗️ Opened issue [#8](https://github.com/DavBfr/flutter_pref/issues/8) in [DavBfr/flutter_pref](https://github.com/DavBfr/flutter_pref)
-5. 🗣 Commented on [#685](https://github.com/Sub6Resources/flutter_html/issues/685) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+3. 🗣 Commented on [#711](https://github.com/Sub6Resources/flutter_html/issues/711) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+4. 🗣 Commented on [#8](https://github.com/DavBfr/flutter_pref/issues/8) in [DavBfr/flutter_pref](https://github.com/DavBfr/flutter_pref)
+5. ❗️ Opened issue [#8](https://github.com/DavBfr/flutter_pref/issues/8) in [DavBfr/flutter_pref](https://github.com/DavBfr/flutter_pref)
 <!--END_SECTION:activity-->
