@@ -47,9 +47,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4074](https://github.com/summernote/summernote/issues/4074) in [summernote/summernote](https://github.com/summernote/summernote)
-2. ❗️ Opened issue [#4074](https://github.com/summernote/summernote/issues/4074) in [summernote/summernote](https://github.com/summernote/summernote)
-3. 🗣 Commented on [#67](https://github.com/tneotia/html-editor-enhanced/issues/67) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-4. ❗️ Closed issue [#56](https://github.com/tneotia/html-editor-enhanced/issues/56) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-5. 🗣 Commented on [#56](https://github.com/tneotia/html-editor-enhanced/issues/56) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+1. 🗣 Commented on [#65](https://github.com/tneotia/html-editor-enhanced/issues/65) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+2. 🗣 Commented on [#740](https://github.com/Sub6Resources/flutter_html/issues/740) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+3. 🗣 Commented on [#6](https://github.com/airmessage/airmessage-android/issues/6) in [airmessage/airmessage-android](https://github.com/airmessage/airmessage-android)
+4. 🗣 Commented on [#4074](https://github.com/summernote/summernote/issues/4074) in [summernote/summernote](https://github.com/summernote/summernote)
+5. ❗️ Opened issue [#4074](https://github.com/summernote/summernote/issues/4074) in [summernote/summernote](https://github.com/summernote/summernote)
 <!--END_SECTION:activity-->
