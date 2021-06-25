@@ -47,9 +47,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#954](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/954) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-2. 🗣 Commented on [#954](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/954) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-3. 💪 Opened PR [#955](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/955) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-4. 💪 Opened PR [#954](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/954) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-5. 💪 Opened PR [#952](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/952) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+1. 🗣 Commented on [#943](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/943) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+2. 🗣 Commented on [#947](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/947) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+3. ❗️ Closed issue [#69](https://github.com/tneotia/html-editor-enhanced/issues/69) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+4. 🗣 Commented on [#69](https://github.com/tneotia/html-editor-enhanced/issues/69) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+5. 🗣 Commented on [#72](https://github.com/tneotia/html-editor-enhanced/issues/72) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
 <!--END_SECTION:activity-->
