@@ -47,9 +47,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1223](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1223) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-2. 💪 Opened PR [#1222](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1222) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-3. 💪 Opened PR [#1221](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1221) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-4. 🗣 Commented on [#1219](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1219) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-5. 🗣 Commented on [#27763](https://github.com/flutter/engine/issues/27763) in [flutter/engine](https://github.com/flutter/engine)
+1. 💪 Opened PR [#1225](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1225) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+2. 💪 Opened PR [#1223](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1223) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+3. 💪 Opened PR [#1222](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1222) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+4. 💪 Opened PR [#1221](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1221) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+5. 🗣 Commented on [#1219](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1219) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
 <!--END_SECTION:activity-->
