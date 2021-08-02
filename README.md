@@ -47,9 +47,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1227](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1227) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-2. 🗣 Commented on [#1227](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1227) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-3. 🗣 Commented on [#1226](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1226) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-4. 🗣 Commented on [#97](https://github.com/tneotia/html-editor-enhanced/issues/97) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-5. 💪 Opened PR [#1234](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1234) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+1. 🗣 Commented on [#1203](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1203) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+2. ❗️ Closed issue [#1227](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1227) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+3. 🗣 Commented on [#1227](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1227) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+4. 🗣 Commented on [#1226](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1226) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+5. 🗣 Commented on [#97](https://github.com/tneotia/html-editor-enhanced/issues/97) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
 <!--END_SECTION:activity-->
