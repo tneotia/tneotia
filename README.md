@@ -47,9 +47,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1301](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1301) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-2. 🗣 Commented on [#1287](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1287) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-3. 💪 Opened PR [#1298](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1298) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-4. 💪 Opened PR [#1297](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1297) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-5. 🗣 Commented on [#1258](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1258) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+1. 🗣 Commented on [#1302](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1302) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+2. ❗️ Closed issue [#1272](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1272) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+3. 🗣 Commented on [#1272](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1272) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+4. ❗️ Closed issue [#1275](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1275) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+5. 🗣 Commented on [#1275](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1275) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
 <!--END_SECTION:activity-->
