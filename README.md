@@ -47,9 +47,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1362](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1362) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-2. 💪 Opened PR [#1358](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1358) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-3. ❗️ Closed issue [#1357](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1357) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-4. ❗️ Closed issue [#1335](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1335) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-5. ❗️ Closed issue [#1338](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1338) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+1. 🗣 Commented on [#796](https://github.com/Sub6Resources/flutter_html/issues/796) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+2. 💪 Opened PR [#1362](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1362) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+3. 💪 Opened PR [#1358](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1358) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+4. ❗️ Closed issue [#1357](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1357) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+5. ❗️ Closed issue [#1335](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1335) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
 <!--END_SECTION:activity-->
