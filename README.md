@@ -47,9 +47,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1375](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1375) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-2. 💪 Opened PR [#1373](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1373) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-3. 🗣 Commented on [#113](https://github.com/tneotia/html-editor-enhanced/issues/113) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-4. 🗣 Commented on [#113](https://github.com/tneotia/html-editor-enhanced/issues/113) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-5. 🗣 Commented on [#113](https://github.com/tneotia/html-editor-enhanced/issues/113) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+1. 🗣 Commented on [#1111](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1111) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+2. 💪 Opened PR [#1377](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1377) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+3. 💪 Opened PR [#1376](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1376) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+4. 💪 Opened PR [#1375](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1375) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+5. 💪 Opened PR [#1373](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1373) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
 <!--END_SECTION:activity-->
