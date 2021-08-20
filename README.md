@@ -47,9 +47,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#617](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/617) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-2. 🗣 Commented on [#116](https://github.com/tneotia/html-editor-enhanced/issues/116) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-3. 💪 Opened PR [#1385](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1385) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-4. 🗣 Commented on [#1186](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1186) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-5. 🗣 Commented on [#114](https://github.com/tneotia/html-editor-enhanced/issues/114) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+1. 🗣 Commented on [#1384](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1384) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+2. 🗣 Commented on [#617](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/617) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+3. 🗣 Commented on [#116](https://github.com/tneotia/html-editor-enhanced/issues/116) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+4. 💪 Opened PR [#1385](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1385) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+5. 🗣 Commented on [#1186](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1186) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
 <!--END_SECTION:activity-->
