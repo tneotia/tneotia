@@ -47,9 +47,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1412](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1412) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-2. 💪 Opened PR [#1412](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1412) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-3. 🗣 Commented on [#109](https://github.com/tneotia/html-editor-enhanced/issues/109) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-4. 🗣 Commented on [#109](https://github.com/tneotia/html-editor-enhanced/issues/109) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-5. 🗣 Commented on [#120](https://github.com/tneotia/html-editor-enhanced/issues/120) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+1. 🎉 Merged PR [#1413](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1413) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+2. 💪 Opened PR [#1413](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1413) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+3. 🗣 Commented on [#1412](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1412) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+4. 💪 Opened PR [#1412](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1412) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+5. 🗣 Commented on [#109](https://github.com/tneotia/html-editor-enhanced/issues/109) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
 <!--END_SECTION:activity-->
