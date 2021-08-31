@@ -47,9 +47,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1419](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1419) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-2. 🗣 Commented on [#1435](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1435) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-3. 🗣 Commented on [#124](https://github.com/tneotia/html-editor-enhanced/issues/124) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-4. 🗣 Commented on [#817](https://github.com/Sub6Resources/flutter_html/issues/817) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
-5. ❗️ Closed issue [#1431](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1431) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+1. 💪 Opened PR [#1436](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/pull/1436) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+2. 🗣 Commented on [#1419](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1419) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+3. 🗣 Commented on [#1435](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1435) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+4. 🗣 Commented on [#124](https://github.com/tneotia/html-editor-enhanced/issues/124) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+5. 🗣 Commented on [#817](https://github.com/Sub6Resources/flutter_html/issues/817) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
 <!--END_SECTION:activity-->
