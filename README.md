@@ -47,9 +47,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#123](https://github.com/tneotia/html-editor-enhanced/issues/123) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-2. 🗣 Commented on [#123](https://github.com/tneotia/html-editor-enhanced/issues/123) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-3. 🗣 Commented on [#1189](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1189) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-4. 🗣 Commented on [#1419](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1419) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
-5. 🗣 Commented on [#816](https://github.com/Sub6Resources/flutter_html/issues/816) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+1. 🗣 Commented on [#1441](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1441) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+2. ❗️ Closed issue [#1442](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1442) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+3. ❗️ Closed issue [#1437](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1437) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+4. ❗️ Closed issue [#1440](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1440) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
+5. ❗️ Closed issue [#1439](https://github.com/BlueBubblesApp/BlueBubbles-Android-App/issues/1439) in [BlueBubblesApp/BlueBubbles-Android-App](https://github.com/BlueBubblesApp/BlueBubbles-Android-App)
 <!--END_SECTION:activity-->
