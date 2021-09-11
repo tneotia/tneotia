@@ -42,7 +42,7 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 
 📈 **My GitHub Stats**
 
-<p> <img src="https://github-readme-stats.tneotia.vercel.app/api?username=tneotia&show_icons=true&count_private=true&theme=dark" alt="tneotia" /> </p>
+<p> <img src="https://github-readme-stats.tneotia.vercel.app/api?username=tneotia&show_icons=true&count_private=true&theme=dark&include_all_commits=true" alt="tneotia" /> </p>
   
 :zap: **Recent Activity**
 
