@@ -47,9 +47,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#137](https://github.com/tneotia/html-editor-enhanced/issues/137) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-2. 🗣 Commented on [#138](https://github.com/tneotia/html-editor-enhanced/issues/138) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-3. 🗣 Commented on [#137](https://github.com/tneotia/html-editor-enhanced/issues/137) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-4. 🗣 Commented on [#135](https://github.com/tneotia/html-editor-enhanced/issues/135) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-5. 🗣 Commented on [#133](https://github.com/tneotia/html-editor-enhanced/issues/133) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+1. 🗣 Commented on [#1485](https://github.com/BlueBubblesApp/bluebubbles-app/issues/1485) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+2. ❗️ Closed issue [#1195](https://github.com/BlueBubblesApp/bluebubbles-app/issues/1195) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+3. 🗣 Commented on [#1132](https://github.com/BlueBubblesApp/bluebubbles-app/issues/1132) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+4. ❗️ Closed issue [#1132](https://github.com/BlueBubblesApp/bluebubbles-app/issues/1132) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+5. 🗣 Commented on [#1054](https://github.com/BlueBubblesApp/bluebubbles-app/issues/1054) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
 <!--END_SECTION:activity-->
