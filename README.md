@@ -47,9 +47,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#27](https://github.com/open-imcore/barcelona/issues/27) in [open-imcore/barcelona](https://github.com/open-imcore/barcelona)
-2. 🗣 Commented on [#3](https://github.com/freedomtan/classdump-dyld/issues/3) in [freedomtan/classdump-dyld](https://github.com/freedomtan/classdump-dyld)
-3. 🗣 Commented on [#140](https://github.com/tneotia/html-editor-enhanced/issues/140) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-4. 🗣 Commented on [#150](https://github.com/tneotia/html-editor-enhanced/issues/150) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-5. 🗣 Commented on [#152](https://github.com/tneotia/html-editor-enhanced/issues/152) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+1. ❌ Closed PR [#3](https://github.com/BlueBubblesApp/BlueBubbles-Server-Helper/pull/3) in [BlueBubblesApp/BlueBubbles-Server-Helper](https://github.com/BlueBubblesApp/BlueBubbles-Server-Helper)
+2. 🗣 Commented on [#3](https://github.com/BlueBubblesApp/BlueBubbles-Server-Helper/issues/3) in [BlueBubblesApp/BlueBubbles-Server-Helper](https://github.com/BlueBubblesApp/BlueBubbles-Server-Helper)
+3. ❗️ Opened issue [#27](https://github.com/open-imcore/barcelona/issues/27) in [open-imcore/barcelona](https://github.com/open-imcore/barcelona)
+4. 🗣 Commented on [#3](https://github.com/freedomtan/classdump-dyld/issues/3) in [freedomtan/classdump-dyld](https://github.com/freedomtan/classdump-dyld)
+5. 🗣 Commented on [#140](https://github.com/tneotia/html-editor-enhanced/issues/140) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
 <!--END_SECTION:activity-->
