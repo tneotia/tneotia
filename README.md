@@ -47,9 +47,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/BlueBubblesApp/BlueBubblesApp.github.io/pull/12) in [BlueBubblesApp/BlueBubblesApp.github.io](https://github.com/BlueBubblesApp/BlueBubblesApp.github.io)
-2. 🗣 Commented on [#151](https://github.com/tneotia/html-editor-enhanced/issues/151) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-3. 🗣 Commented on [#154](https://github.com/tneotia/html-editor-enhanced/issues/154) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-4. 🗣 Commented on [#875](https://github.com/Sub6Resources/flutter_html/issues/875) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
-5. 🗣 Commented on [#153](https://github.com/tneotia/html-editor-enhanced/issues/153) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+1. 💪 Opened PR [#1637](https://github.com/BlueBubblesApp/bluebubbles-app/pull/1637) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+2. 🗣 Commented on [#155](https://github.com/tneotia/html-editor-enhanced/issues/155) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+3. 🗣 Commented on [#4](https://github.com/tneotia/html-editor-enhanced/issues/4) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+4. 🗣 Commented on [#151](https://github.com/tneotia/html-editor-enhanced/issues/151) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+5. 💪 Opened PR [#12](https://github.com/BlueBubblesApp/BlueBubblesApp.github.io/pull/12) in [BlueBubblesApp/BlueBubblesApp.github.io](https://github.com/BlueBubblesApp/BlueBubblesApp.github.io)
 <!--END_SECTION:activity-->
