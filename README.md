@@ -47,9 +47,9 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#150](https://github.com/tneotia/html-editor-enhanced/issues/150) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-2. 🗣 Commented on [#150](https://github.com/tneotia/html-editor-enhanced/issues/150) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-3. ❗️ Closed issue [#153](https://github.com/tneotia/html-editor-enhanced/issues/153) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-4. 🗣 Commented on [#153](https://github.com/tneotia/html-editor-enhanced/issues/153) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-5. ❗️ Closed issue [#152](https://github.com/tneotia/html-editor-enhanced/issues/152) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+1. ❗️ Closed issue [#151](https://github.com/tneotia/html-editor-enhanced/issues/151) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+2. 🗣 Commented on [#151](https://github.com/tneotia/html-editor-enhanced/issues/151) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+3. 🗣 Commented on [#140](https://github.com/tneotia/html-editor-enhanced/issues/140) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+4. ❗️ Closed issue [#140](https://github.com/tneotia/html-editor-enhanced/issues/140) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+5. ❗️ Closed issue [#133](https://github.com/tneotia/html-editor-enhanced/issues/133) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
 <!--END_SECTION:activity-->
