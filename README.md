@@ -37,7 +37,7 @@ Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 
 👨‍💻 **My Top Languages**
 
-<p> <img src="https://github-readme-stats.tneotia.vercel.app/api/top-langs/?username=tneotia&theme=dark" alt="tneotia" /> </p>
+<p> <img src="https://github-readme-stats.tneotia.vercel.app/api/top-langs?username=tneotia&theme=dark" alt="tneotia" /> </p>
 
 
 📈 **My GitHub Stats**
