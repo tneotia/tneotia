@@ -13,13 +13,14 @@
 
 <br />
 
-Hi, I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying Mechanical Engineering at the Georgia Institute of Technology. 
+Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying Mechanical Engineering at the Georgia Institute of Technology. 
 
-- 👨🏽‍💻 I’m currently working on [HLS Grades](https://github.com/tneotia/HLSGrades)
-- 🌱 I’m currently learning Flutter and Dart
+- 👨🏽‍💻 I’m currently working on [HLS Grades](https://github.com/tneotia/HLSGrades) and [BlueBubbles](https://github.com/BlueBubblesApp)
+- 👨🏽‍💻 I primarily code with Flutter in Dart
+- 🌱 I’m dabbling in Objective-C, HTML / JavaScript, and TypeScript
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [tanay at neotia dot in](mailto://tanay@neotia.in)
-- 📝[Resume](https://drive.google.com/file/d/1zlV1XXz1qV1TZeIYtkQ2bvopnYlI753g/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1zlV1XXz1qV1TZeIYtkQ2bvopnYlI753g/view?usp=sharing)
 
 **Languages and Tools:**  
 
