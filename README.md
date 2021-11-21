@@ -48,9 +48,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#340](https://github.com/objectbox/objectbox-dart/issues/340) in [objectbox/objectbox-dart](https://github.com/objectbox/objectbox-dart)
-2. 🎉 Merged PR [#12](https://github.com/BlueBubblesApp/bluebubbles-helper/pull/12) in [BlueBubblesApp/bluebubbles-helper](https://github.com/BlueBubblesApp/bluebubbles-helper)
-3. 🗣 Commented on [#168](https://github.com/tneotia/html-editor-enhanced/issues/168) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-4. 🗣 Commented on [#251](https://github.com/BlueBubblesApp/bluebubbles-server/issues/251) in [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server)
-5. 🎉 Merged PR [#1727](https://github.com/BlueBubblesApp/bluebubbles-app/pull/1727) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+1. 🗣 Commented on [#340](https://github.com/objectbox/objectbox-dart/issues/340) in [objectbox/objectbox-dart](https://github.com/objectbox/objectbox-dart)
+2. ❗️ Opened issue [#340](https://github.com/objectbox/objectbox-dart/issues/340) in [objectbox/objectbox-dart](https://github.com/objectbox/objectbox-dart)
+3. 🎉 Merged PR [#12](https://github.com/BlueBubblesApp/bluebubbles-helper/pull/12) in [BlueBubblesApp/bluebubbles-helper](https://github.com/BlueBubblesApp/bluebubbles-helper)
+4. 🗣 Commented on [#168](https://github.com/tneotia/html-editor-enhanced/issues/168) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+5. 🗣 Commented on [#251](https://github.com/BlueBubblesApp/bluebubbles-server/issues/251) in [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server)
 <!--END_SECTION:activity-->
