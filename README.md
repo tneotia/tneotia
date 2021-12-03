@@ -48,9 +48,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#919](https://github.com/Sub6Resources/flutter_html/issues/919) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
-2. 🎉 Merged PR [#1760](https://github.com/BlueBubblesApp/bluebubbles-app/pull/1760) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-3. ❌ Closed PR [#1688](https://github.com/BlueBubblesApp/bluebubbles-app/pull/1688) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-4. 🗣 Commented on [#1688](https://github.com/BlueBubblesApp/bluebubbles-app/issues/1688) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-5. ❗️ Closed issue [#1754](https://github.com/BlueBubblesApp/bluebubbles-app/issues/1754) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+1. ❗️ Opened issue [#1764](https://github.com/BlueBubblesApp/bluebubbles-app/issues/1764) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+2. 🗣 Commented on [#919](https://github.com/Sub6Resources/flutter_html/issues/919) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+3. 🎉 Merged PR [#1760](https://github.com/BlueBubblesApp/bluebubbles-app/pull/1760) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+4. ❌ Closed PR [#1688](https://github.com/BlueBubblesApp/bluebubbles-app/pull/1688) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+5. 🗣 Commented on [#1688](https://github.com/BlueBubblesApp/bluebubbles-app/issues/1688) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
 <!--END_SECTION:activity-->
