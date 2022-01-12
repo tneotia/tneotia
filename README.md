@@ -48,9 +48,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#979](https://github.com/Sub6Resources/flutter_html/issues/979) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
-2. ❗️ Closed issue [#975](https://github.com/Sub6Resources/flutter_html/issues/975) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
-3. 🗣 Commented on [#975](https://github.com/Sub6Resources/flutter_html/issues/975) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
-4. 🗣 Commented on [#957](https://github.com/Sub6Resources/flutter_html/issues/957) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
-5. 🗣 Commented on [#972](https://github.com/Sub6Resources/flutter_html/issues/972) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+1. 💪 Opened PR [#129](https://github.com/shounakmulay/Telephony/pull/129) in [shounakmulay/Telephony](https://github.com/shounakmulay/Telephony)
+2. 🗣 Commented on [#979](https://github.com/Sub6Resources/flutter_html/issues/979) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+3. ❗️ Closed issue [#975](https://github.com/Sub6Resources/flutter_html/issues/975) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+4. 🗣 Commented on [#975](https://github.com/Sub6Resources/flutter_html/issues/975) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
+5. 🗣 Commented on [#957](https://github.com/Sub6Resources/flutter_html/issues/957) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
 <!--END_SECTION:activity-->
