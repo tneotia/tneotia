@@ -48,9 +48,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1851](https://github.com/BlueBubblesApp/bluebubbles-app/issues/1851) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-2. 🗣 Commented on [#717](https://github.com/Sub6Resources/flutter_html/issues/717) in [Sub6Resources/flutter_html](https://github.com/Sub6Resources/flutter_html)
-3. 🗣 Commented on [#87203](https://github.com/flutter/flutter/issues/87203) in [flutter/flutter](https://github.com/flutter/flutter)
-4. 🗣 Commented on [#27763](https://github.com/flutter/engine/issues/27763) in [flutter/engine](https://github.com/flutter/engine)
-5. 🗣 Commented on [#160](https://github.com/tneotia/html-editor-enhanced/issues/160) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+1. 🎉 Merged PR [#2](https://github.com/tneotia/Telephony/pull/2) in [tneotia/Telephony](https://github.com/tneotia/Telephony)
+2. 💪 Opened PR [#2](https://github.com/tneotia/Telephony/pull/2) in [tneotia/Telephony](https://github.com/tneotia/Telephony)
+3. 🎉 Merged PR [#1](https://github.com/tneotia/Telephony/pull/1) in [tneotia/Telephony](https://github.com/tneotia/Telephony)
+4. 💪 Opened PR [#1](https://github.com/tneotia/Telephony/pull/1) in [tneotia/Telephony](https://github.com/tneotia/Telephony)
+5. 🗣 Commented on [#1851](https://github.com/BlueBubblesApp/bluebubbles-app/issues/1851) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
 <!--END_SECTION:activity-->
