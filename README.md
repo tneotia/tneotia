@@ -2,16 +2,9 @@
 <a href="https://www.linkedin.com/in/tneotia/">
   <img align="left" alt="Tanay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/tanay-3">
-  <img align="left" alt="Tanay's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-<a href="https://www.reddit.com/user/hlsjunior/">
-  <img align="left" alt="Tanay's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-</a> 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tneotia.tneotia)
 
-<br />
 
 Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying Mechanical Engineering at the Georgia Institute of Technology. 
 
