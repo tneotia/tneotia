@@ -41,9 +41,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1984](https://github.com/BlueBubblesApp/bluebubbles-app/pull/1984) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-2. 🗣 Commented on [#350](https://github.com/BlueBubblesApp/bluebubbles-server/issues/350) in [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server)
-3. 💪 Opened PR [#1982](https://github.com/BlueBubblesApp/bluebubbles-app/pull/1982) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-4. 💪 Opened PR [#1981](https://github.com/BlueBubblesApp/bluebubbles-app/pull/1981) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-5. 🗣 Commented on [#1975](https://github.com/BlueBubblesApp/bluebubbles-app/issues/1975) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+1. 🗣 Commented on [#1961](https://github.com/BlueBubblesApp/bluebubbles-app/issues/1961) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+2. 🗣 Commented on [#342](https://github.com/BlueBubblesApp/bluebubbles-server/issues/342) in [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server)
+3. 💪 Opened PR [#1984](https://github.com/BlueBubblesApp/bluebubbles-app/pull/1984) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+4. 🗣 Commented on [#350](https://github.com/BlueBubblesApp/bluebubbles-server/issues/350) in [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server)
+5. 💪 Opened PR [#1982](https://github.com/BlueBubblesApp/bluebubbles-app/pull/1982) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
 <!--END_SECTION:activity-->
