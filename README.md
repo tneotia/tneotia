@@ -42,8 +42,8 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#340](https://github.com/objectbox/objectbox-dart/issues/340) in [objectbox/objectbox-dart](https://github.com/objectbox/objectbox-dart)
-2. 🗣 Commented on [#2194](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2194) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-3. 💪 Opened PR [#2205](https://github.com/BlueBubblesApp/bluebubbles-app/pull/2205) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-4. 🗣 Commented on [#135](https://github.com/iandwelker/smserver/issues/135) in [iandwelker/smserver](https://github.com/iandwelker/smserver)
-5. ❗️ Closed issue [#2199](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2199) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+2. 🗣 Commented on [#340](https://github.com/objectbox/objectbox-dart/issues/340) in [objectbox/objectbox-dart](https://github.com/objectbox/objectbox-dart)
+3. 🗣 Commented on [#2194](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2194) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+4. 💪 Opened PR [#2205](https://github.com/BlueBubblesApp/bluebubbles-app/pull/2205) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+5. 🗣 Commented on [#135](https://github.com/iandwelker/smserver/issues/135) in [iandwelker/smserver](https://github.com/iandwelker/smserver)
 <!--END_SECTION:activity-->
