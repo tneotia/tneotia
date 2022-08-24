@@ -41,9 +41,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35619](https://github.com/flutter/engine/issues/35619) in [flutter/engine](https://github.com/flutter/engine)
-2. 🗣 Commented on [#110052](https://github.com/flutter/flutter/issues/110052) in [flutter/flutter](https://github.com/flutter/flutter)
-3. 💪 Opened PR [#35619](https://github.com/flutter/engine/pull/35619) in [flutter/engine](https://github.com/flutter/engine)
-4. 💪 Opened PR [#110052](https://github.com/flutter/flutter/pull/110052) in [flutter/flutter](https://github.com/flutter/flutter)
-5. 🗣 Commented on [#2228](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2228) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+1. 🗣 Commented on [#110052](https://github.com/flutter/flutter/issues/110052) in [flutter/flutter](https://github.com/flutter/flutter)
+2. 🗣 Commented on [#35619](https://github.com/flutter/engine/issues/35619) in [flutter/engine](https://github.com/flutter/engine)
+3. 🗣 Commented on [#110052](https://github.com/flutter/flutter/issues/110052) in [flutter/flutter](https://github.com/flutter/flutter)
+4. 💪 Opened PR [#35619](https://github.com/flutter/engine/pull/35619) in [flutter/engine](https://github.com/flutter/engine)
+5. 💪 Opened PR [#110052](https://github.com/flutter/flutter/pull/110052) in [flutter/flutter](https://github.com/flutter/flutter)
 <!--END_SECTION:activity-->
