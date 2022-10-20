@@ -41,9 +41,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#328](https://github.com/tneotia/html-editor-enhanced/pull/328) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-2. 🗣 Commented on [#35619](https://github.com/flutter/engine/issues/35619) in [flutter/engine](https://github.com/flutter/engine)
-3. 🗣 Commented on [#331](https://github.com/tneotia/html-editor-enhanced/issues/331) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-4. ❗️ Closed issue [#323](https://github.com/tneotia/html-editor-enhanced/issues/323) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-5. 🗣 Commented on [#323](https://github.com/tneotia/html-editor-enhanced/issues/323) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+1. 💪 Opened PR [#14](https://github.com/daadu/receive_intent/pull/14) in [daadu/receive_intent](https://github.com/daadu/receive_intent)
+2. 🎉 Merged PR [#330](https://github.com/tneotia/html-editor-enhanced/pull/330) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+3. ❗️ Opened issue [#13](https://github.com/daadu/receive_intent/issues/13) in [daadu/receive_intent](https://github.com/daadu/receive_intent)
+4. 🎉 Merged PR [#328](https://github.com/tneotia/html-editor-enhanced/pull/328) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+5. 🗣 Commented on [#35619](https://github.com/flutter/engine/issues/35619) in [flutter/engine](https://github.com/flutter/engine)
 <!--END_SECTION:activity-->
