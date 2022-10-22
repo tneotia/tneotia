@@ -41,9 +41,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2283](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2283) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-2. 💪 Opened PR [#14](https://github.com/daadu/receive_intent/pull/14) in [daadu/receive_intent](https://github.com/daadu/receive_intent)
-3. 🎉 Merged PR [#330](https://github.com/tneotia/html-editor-enhanced/pull/330) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-4. ❗️ Opened issue [#13](https://github.com/daadu/receive_intent/issues/13) in [daadu/receive_intent](https://github.com/daadu/receive_intent)
-5. 🎉 Merged PR [#328](https://github.com/tneotia/html-editor-enhanced/pull/328) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+1. 🗣 Commented on [#122](https://github.com/rmawatson/flutter_isolate/issues/122) in [rmawatson/flutter_isolate](https://github.com/rmawatson/flutter_isolate)
+2. ❗️ Opened issue [#2283](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2283) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+3. 💪 Opened PR [#14](https://github.com/daadu/receive_intent/pull/14) in [daadu/receive_intent](https://github.com/daadu/receive_intent)
+4. 🎉 Merged PR [#330](https://github.com/tneotia/html-editor-enhanced/pull/330) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+5. ❗️ Opened issue [#13](https://github.com/daadu/receive_intent/issues/13) in [daadu/receive_intent](https://github.com/daadu/receive_intent)
 <!--END_SECTION:activity-->
