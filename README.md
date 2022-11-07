@@ -41,9 +41,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2228](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2228) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-2. 🗣 Commented on [#110052](https://github.com/flutter/flutter/issues/110052) in [flutter/flutter](https://github.com/flutter/flutter)
-3. 💪 Opened PR [#7692](https://github.com/flutter/website/pull/7692) in [flutter/website](https://github.com/flutter/website)
-4. 💪 Opened PR [#19](https://github.com/BlueBubblesApp/BlueBubblesApp.github.io/pull/19) in [BlueBubblesApp/BlueBubblesApp.github.io](https://github.com/BlueBubblesApp/BlueBubblesApp.github.io)
-5. 🗣 Commented on [#122](https://github.com/rmawatson/flutter_isolate/issues/122) in [rmawatson/flutter_isolate](https://github.com/rmawatson/flutter_isolate)
+1. 🗣 Commented on [#110052](https://github.com/flutter/flutter/issues/110052) in [flutter/flutter](https://github.com/flutter/flutter)
+2. 🗣 Commented on [#2228](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2228) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+3. 🗣 Commented on [#110052](https://github.com/flutter/flutter/issues/110052) in [flutter/flutter](https://github.com/flutter/flutter)
+4. 💪 Opened PR [#7692](https://github.com/flutter/website/pull/7692) in [flutter/website](https://github.com/flutter/website)
+5. 💪 Opened PR [#19](https://github.com/BlueBubblesApp/BlueBubblesApp.github.io/pull/19) in [BlueBubblesApp/BlueBubblesApp.github.io](https://github.com/BlueBubblesApp/BlueBubblesApp.github.io)
 <!--END_SECTION:activity-->
