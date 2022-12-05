@@ -41,9 +41,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#110052](https://github.com/flutter/flutter/issues/110052) in [flutter/flutter](https://github.com/flutter/flutter)
+1. 🗣 Commented on [#7692](https://github.com/flutter/website/issues/7692) in [flutter/website](https://github.com/flutter/website)
 2. 🗣 Commented on [#110052](https://github.com/flutter/flutter/issues/110052) in [flutter/flutter](https://github.com/flutter/flutter)
 3. 🗣 Commented on [#110052](https://github.com/flutter/flutter/issues/110052) in [flutter/flutter](https://github.com/flutter/flutter)
 4. 🗣 Commented on [#110052](https://github.com/flutter/flutter/issues/110052) in [flutter/flutter](https://github.com/flutter/flutter)
-5. ❗️ Reopened issue [#19](https://github.com/BlueBubblesApp/bluebubbles-helper/issues/19) in [BlueBubblesApp/bluebubbles-helper](https://github.com/BlueBubblesApp/bluebubbles-helper)
+5. 🗣 Commented on [#110052](https://github.com/flutter/flutter/issues/110052) in [flutter/flutter](https://github.com/flutter/flutter)
 <!--END_SECTION:activity-->
