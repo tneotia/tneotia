@@ -41,9 +41,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2320](https://github.com/BlueBubblesApp/bluebubbles-app/pull/2320) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-2. ❗️ Closed issue [#452](https://github.com/BlueBubblesApp/bluebubbles-server/issues/452) in [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server)
-3. 🗣 Commented on [#452](https://github.com/BlueBubblesApp/bluebubbles-server/issues/452) in [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server)
-4. ❗️ Closed issue [#294](https://github.com/BlueBubblesApp/bluebubbles-app/issues/294) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-5. 🗣 Commented on [#294](https://github.com/BlueBubblesApp/bluebubbles-app/issues/294) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+1. 🗣 Commented on [#8](https://github.com/open-imcore/imcore.react/issues/8) in [open-imcore/imcore.react](https://github.com/open-imcore/imcore.react)
+2. 🗣 Commented on [#81](https://github.com/iandwelker/smserver/issues/81) in [iandwelker/smserver](https://github.com/iandwelker/smserver)
+3. 🗣 Commented on [#3](https://github.com/airmessage/airmessage-android/issues/3) in [airmessage/airmessage-android](https://github.com/airmessage/airmessage-android)
+4. 💪 Opened PR [#2320](https://github.com/BlueBubblesApp/bluebubbles-app/pull/2320) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+5. ❗️ Closed issue [#452](https://github.com/BlueBubblesApp/bluebubbles-server/issues/452) in [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server)
 <!--END_SECTION:activity-->
