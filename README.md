@@ -41,9 +41,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2335](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2335) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-2. 💪 Opened PR [#2334](https://github.com/BlueBubblesApp/bluebubbles-app/pull/2334) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-3. 🗣 Commented on [#18](https://github.com/ReagentX/imessage-exporter/issues/18) in [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter)
-4. 🗣 Commented on [#18](https://github.com/ReagentX/imessage-exporter/issues/18) in [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter)
-5. 🗣 Commented on [#18](https://github.com/ReagentX/imessage-exporter/issues/18) in [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter)
+1. 🗣 Commented on [#373](https://github.com/tneotia/html-editor-enhanced/issues/373) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+2. ❗️ Closed issue [#331](https://github.com/tneotia/html-editor-enhanced/issues/331) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+3. ❗️ Closed issue [#341](https://github.com/tneotia/html-editor-enhanced/issues/341) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+4. 🗣 Commented on [#370](https://github.com/tneotia/html-editor-enhanced/issues/370) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+5. 🎉 Merged PR [#370](https://github.com/tneotia/html-editor-enhanced/pull/370) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
 <!--END_SECTION:activity-->
