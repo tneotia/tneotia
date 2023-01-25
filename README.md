@@ -41,9 +41,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2334](https://github.com/BlueBubblesApp/bluebubbles-app/pull/2334) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-2. 🗣 Commented on [#18](https://github.com/ReagentX/imessage-exporter/issues/18) in [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter)
+1. 🗣 Commented on [#2335](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2335) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+2. 💪 Opened PR [#2334](https://github.com/BlueBubblesApp/bluebubbles-app/pull/2334) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
 3. 🗣 Commented on [#18](https://github.com/ReagentX/imessage-exporter/issues/18) in [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter)
 4. 🗣 Commented on [#18](https://github.com/ReagentX/imessage-exporter/issues/18) in [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter)
-5. ❗️ Closed issue [#2185](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2185) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+5. 🗣 Commented on [#18](https://github.com/ReagentX/imessage-exporter/issues/18) in [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter)
 <!--END_SECTION:activity-->
