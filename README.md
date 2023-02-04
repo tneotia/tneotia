@@ -41,9 +41,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#482](https://github.com/BlueBubblesApp/bluebubbles-server/issues/482) in [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server)
-2. 🗣 Commented on [#2371](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2371) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-3. 🎉 Merged PR [#24](https://github.com/BlueBubblesApp/bluebubbles-helper/pull/24) in [BlueBubblesApp/bluebubbles-helper](https://github.com/BlueBubblesApp/bluebubbles-helper)
-4. 🎉 Merged PR [#23](https://github.com/BlueBubblesApp/bluebubbles-helper/pull/23) in [BlueBubblesApp/bluebubbles-helper](https://github.com/BlueBubblesApp/bluebubbles-helper)
-5. 🗣 Commented on [#2368](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2368) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+1. ❗️ Opened issue [#22](https://github.com/samuelngs/apple-emoji-linux/issues/22) in [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux)
+2. ❗️ Closed issue [#2370](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2370) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+3. 🗣 Commented on [#2370](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2370) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+4. ❗️ Closed issue [#2333](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2333) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+5. 🗣 Commented on [#2333](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2333) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
 <!--END_SECTION:activity-->
