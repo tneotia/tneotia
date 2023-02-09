@@ -41,9 +41,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/s0nerik/fast_contacts/issues/12) in [s0nerik/fast_contacts](https://github.com/s0nerik/fast_contacts)
-2. ❗️ Opened issue [#12](https://github.com/s0nerik/fast_contacts/issues/12) in [s0nerik/fast_contacts](https://github.com/s0nerik/fast_contacts)
-3. ❗️ Closed issue [#2376](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2376) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-4. 🗣 Commented on [#2376](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2376) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-5. ❗️ Closed issue [#2378](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2378) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+1. 🗣 Commented on [#22](https://github.com/samuelngs/apple-emoji-linux/issues/22) in [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux)
+2. 🗣 Commented on [#12](https://github.com/s0nerik/fast_contacts/issues/12) in [s0nerik/fast_contacts](https://github.com/s0nerik/fast_contacts)
+3. ❗️ Opened issue [#12](https://github.com/s0nerik/fast_contacts/issues/12) in [s0nerik/fast_contacts](https://github.com/s0nerik/fast_contacts)
+4. ❗️ Closed issue [#2376](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2376) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+5. 🗣 Commented on [#2376](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2376) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
 <!--END_SECTION:activity-->
