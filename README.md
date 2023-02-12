@@ -41,9 +41,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2380](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2380) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-2. 💪 Opened PR [#2379](https://github.com/BlueBubblesApp/bluebubbles-app/pull/2379) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-3. 🗣 Commented on [#22](https://github.com/samuelngs/apple-emoji-linux/issues/22) in [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux)
-4. 🗣 Commented on [#12](https://github.com/s0nerik/fast_contacts/issues/12) in [s0nerik/fast_contacts](https://github.com/s0nerik/fast_contacts)
-5. ❗️ Opened issue [#12](https://github.com/s0nerik/fast_contacts/issues/12) in [s0nerik/fast_contacts](https://github.com/s0nerik/fast_contacts)
+1. 🗣 Commented on [#19](https://github.com/ReagentX/imessage-exporter/issues/19) in [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter)
+2. ❗️ Opened issue [#2380](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2380) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+3. 💪 Opened PR [#2379](https://github.com/BlueBubblesApp/bluebubbles-app/pull/2379) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+4. 🗣 Commented on [#22](https://github.com/samuelngs/apple-emoji-linux/issues/22) in [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux)
+5. 🗣 Commented on [#12](https://github.com/s0nerik/fast_contacts/issues/12) in [s0nerik/fast_contacts](https://github.com/s0nerik/fast_contacts)
 <!--END_SECTION:activity-->
