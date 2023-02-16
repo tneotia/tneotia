@@ -41,9 +41,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/BlueBubblesApp/bluebubbles-docs/pull/2) in [BlueBubblesApp/bluebubbles-docs](https://github.com/BlueBubblesApp/bluebubbles-docs)
-2. 🎉 Merged PR [#1](https://github.com/BlueBubblesApp/bluebubbles-docs/pull/1) in [BlueBubblesApp/bluebubbles-docs](https://github.com/BlueBubblesApp/bluebubbles-docs)
-3. 🗣 Commented on [#19](https://github.com/ReagentX/imessage-exporter/issues/19) in [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter)
-4. 🗣 Commented on [#19](https://github.com/ReagentX/imessage-exporter/issues/19) in [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter)
-5. ❗️ Opened issue [#2380](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2380) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+1. ❗️ Closed issue [#19](https://github.com/BlueBubblesApp/bluebubbles-helper/issues/19) in [BlueBubblesApp/bluebubbles-helper](https://github.com/BlueBubblesApp/bluebubbles-helper)
+2. 🗣 Commented on [#19](https://github.com/BlueBubblesApp/bluebubbles-helper/issues/19) in [BlueBubblesApp/bluebubbles-helper](https://github.com/BlueBubblesApp/bluebubbles-helper)
+3. 🎉 Merged PR [#25](https://github.com/BlueBubblesApp/bluebubbles-helper/pull/25) in [BlueBubblesApp/bluebubbles-helper](https://github.com/BlueBubblesApp/bluebubbles-helper)
+4. 🎉 Merged PR [#2](https://github.com/BlueBubblesApp/bluebubbles-docs/pull/2) in [BlueBubblesApp/bluebubbles-docs](https://github.com/BlueBubblesApp/bluebubbles-docs)
+5. 🎉 Merged PR [#1](https://github.com/BlueBubblesApp/bluebubbles-docs/pull/1) in [BlueBubblesApp/bluebubbles-docs](https://github.com/BlueBubblesApp/bluebubbles-docs)
 <!--END_SECTION:activity-->
