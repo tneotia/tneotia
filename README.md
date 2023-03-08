@@ -41,9 +41,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#498](https://github.com/BlueBubblesApp/bluebubbles-server/issues/498) in [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server)
-2. 🗣 Commented on [#498](https://github.com/BlueBubblesApp/bluebubbles-server/issues/498) in [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server)
+1. ❗️ Closed issue [#1040](https://github.com/BlueBubblesApp/bluebubbles-app/issues/1040) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+2. 🗣 Commented on [#1040](https://github.com/BlueBubblesApp/bluebubbles-app/issues/1040) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
 3. 🗣 Commented on [#498](https://github.com/BlueBubblesApp/bluebubbles-server/issues/498) in [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server)
-4. 🗣 Commented on [#492](https://github.com/BlueBubblesApp/bluebubbles-server/issues/492) in [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server)
-5. 🗣 Commented on [#166](https://github.com/SimformSolutionsPvtLtd/audio_waveforms/issues/166) in [SimformSolutionsPvtLtd/audio_waveforms](https://github.com/SimformSolutionsPvtLtd/audio_waveforms)
+4. 🗣 Commented on [#498](https://github.com/BlueBubblesApp/bluebubbles-server/issues/498) in [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server)
+5. 🗣 Commented on [#498](https://github.com/BlueBubblesApp/bluebubbles-server/issues/498) in [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server)
 <!--END_SECTION:activity-->
