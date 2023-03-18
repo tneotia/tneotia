@@ -41,9 +41,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7692](https://github.com/flutter/website/issues/7692) in [flutter/website](https://github.com/flutter/website)
-2. ❗️ Closed issue [#2416](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2416) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-3. 🗣 Commented on [#2416](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2416) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-4. 🗣 Commented on [#2414](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2414) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-5. ❗️ Closed issue [#2417](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2417) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+1. ❗️ Closed issue [#2412](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2412) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+2. 🗣 Commented on [#7692](https://github.com/flutter/website/issues/7692) in [flutter/website](https://github.com/flutter/website)
+3. ❗️ Closed issue [#2416](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2416) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+4. 🗣 Commented on [#2416](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2416) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+5. 🗣 Commented on [#2414](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2414) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
 <!--END_SECTION:activity-->
