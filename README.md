@@ -41,9 +41,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#890](https://github.com/BlueBubblesApp/bluebubbles-app/issues/890) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-2. 🗣 Commented on [#890](https://github.com/BlueBubblesApp/bluebubbles-app/issues/890) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-3. ❗️ Closed issue [#2448](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2448) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-4. 🗣 Commented on [#2448](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2448) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-5. ❗️ Closed issue [#2472](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2472) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+1. ❗️ Closed issue [#1860](https://github.com/BlueBubblesApp/bluebubbles-app/issues/1860) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+2. 🗣 Commented on [#1860](https://github.com/BlueBubblesApp/bluebubbles-app/issues/1860) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+3. ❗️ Closed issue [#890](https://github.com/BlueBubblesApp/bluebubbles-app/issues/890) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+4. 🗣 Commented on [#890](https://github.com/BlueBubblesApp/bluebubbles-app/issues/890) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+5. ❗️ Closed issue [#2448](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2448) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
 <!--END_SECTION:activity-->
