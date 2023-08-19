@@ -41,9 +41,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/BlueBubblesApp/BlueBubblesApp.github.io/pull/27) in [BlueBubblesApp/BlueBubblesApp.github.io](https://github.com/BlueBubblesApp/BlueBubblesApp.github.io)
-2. 💪 Opened PR [#26](https://github.com/BlueBubblesApp/BlueBubblesApp.github.io/pull/26) in [BlueBubblesApp/BlueBubblesApp.github.io](https://github.com/BlueBubblesApp/BlueBubblesApp.github.io)
-3. 🗣 Commented on [#546](https://github.com/BlueBubblesApp/bluebubbles-server/pull/546#issuecomment-1627971985) in [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server)
-4. 🚀 Published release [0.0.16](https://github.com/BlueBubblesApp/bluebubbles-helper/releases/tag/0.0.16) in [BlueBubblesApp/bluebubbles-helper](https://github.com/BlueBubblesApp/bluebubbles-helper)
-5. 🔒 Closed issue [#2496](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2496) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+1. 🔒 Closed issue [#2508](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2508) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+2. 🔒 Closed issue [#2511](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2511) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+3. 🔒 Closed issue [#2512](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2512) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+4. 🗣 Commented on [#2512](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2512#issuecomment-1685087993) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+5. 🔒 Closed issue [#2516](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2516) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
 <!--END_SECTION:activity-->
