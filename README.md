@@ -41,9 +41,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#33](https://github.com/BlueBubblesApp/bluebubbles-helper/issues/33) in [BlueBubblesApp/bluebubbles-helper](https://github.com/BlueBubblesApp/bluebubbles-helper)
-2. 🗣 Commented on [#33](https://github.com/BlueBubblesApp/bluebubbles-helper/issues/33#issuecomment-1689910030) in [BlueBubblesApp/bluebubbles-helper](https://github.com/BlueBubblesApp/bluebubbles-helper)
-3. 🚀 Published release [0.0.17](https://github.com/BlueBubblesApp/bluebubbles-helper/releases/tag/0.0.17) in [BlueBubblesApp/bluebubbles-helper](https://github.com/BlueBubblesApp/bluebubbles-helper)
-4. 🔒 Closed issue [#2525](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2525) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-5. 🗣 Commented on [#2520](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2520#issuecomment-1685101053) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+1. 🔒 Closed issue [#554](https://github.com/BlueBubblesApp/bluebubbles-server/issues/554) in [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server)
+2. 🔒 Closed issue [#393](https://github.com/BlueBubblesApp/bluebubbles-server/issues/393) in [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server)
+3. 🔒 Closed issue [#33](https://github.com/BlueBubblesApp/bluebubbles-helper/issues/33) in [BlueBubblesApp/bluebubbles-helper](https://github.com/BlueBubblesApp/bluebubbles-helper)
+4. 🗣 Commented on [#33](https://github.com/BlueBubblesApp/bluebubbles-helper/issues/33#issuecomment-1689910030) in [BlueBubblesApp/bluebubbles-helper](https://github.com/BlueBubblesApp/bluebubbles-helper)
+5. 🚀 Published release [0.0.17](https://github.com/BlueBubblesApp/bluebubbles-helper/releases/tag/0.0.17) in [BlueBubblesApp/bluebubbles-helper](https://github.com/BlueBubblesApp/bluebubbles-helper)
 <!--END_SECTION:activity-->
