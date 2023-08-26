@@ -41,9 +41,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#554](https://github.com/BlueBubblesApp/bluebubbles-server/issues/554) in [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server)
-2. 🔒 Closed issue [#393](https://github.com/BlueBubblesApp/bluebubbles-server/issues/393) in [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server)
-3. 🔒 Closed issue [#33](https://github.com/BlueBubblesApp/bluebubbles-helper/issues/33) in [BlueBubblesApp/bluebubbles-helper](https://github.com/BlueBubblesApp/bluebubbles-helper)
-4. 🗣 Commented on [#33](https://github.com/BlueBubblesApp/bluebubbles-helper/issues/33#issuecomment-1689910030) in [BlueBubblesApp/bluebubbles-helper](https://github.com/BlueBubblesApp/bluebubbles-helper)
-5. 🚀 Published release [0.0.17](https://github.com/BlueBubblesApp/bluebubbles-helper/releases/tag/0.0.17) in [BlueBubblesApp/bluebubbles-helper](https://github.com/BlueBubblesApp/bluebubbles-helper)
+1. 🔒 Closed issue [#2513](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2513) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+2. 🗣 Commented on [#2513](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2513#issuecomment-1694096272) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+3. 🔒 Closed issue [#2415](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2415) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+4. 🔒 Closed issue [#2135](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2135) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+5. 🔒 Closed issue [#1903](https://github.com/BlueBubblesApp/bluebubbles-app/issues/1903) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
 <!--END_SECTION:activity-->
