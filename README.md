@@ -41,9 +41,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [BlueBubbles App v1.12.4](https://github.com/BlueBubblesApp/bluebubbles-app/releases/tag/v1.12.4%2B58) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-2. 🔒 Closed issue [#2513](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2513) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-3. 🗣 Commented on [#2513](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2513#issuecomment-1694096272) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-4. 🔒 Closed issue [#2415](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2415) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-5. 🔒 Closed issue [#2135](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2135) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+1. ❗ Opened issue [#2541](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2541) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+2. ❗ Opened issue [#2540](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2540) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+3. 🚀 Published release [BlueBubbles App v1.12.4](https://github.com/BlueBubblesApp/bluebubbles-app/releases/tag/v1.12.4%2B58) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+4. 🔒 Closed issue [#2513](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2513) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+5. 🗣 Commented on [#2513](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2513#issuecomment-1694096272) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
 <!--END_SECTION:activity-->
