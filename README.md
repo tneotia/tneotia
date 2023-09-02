@@ -41,9 +41,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2539](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2539) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-2. 🔒 Closed issue [#2534](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2534) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-3. 🗣 Commented on [#2534](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2534#issuecomment-1703941425) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-4. 🔒 Closed issue [#2528](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2528) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-5. 🗣 Commented on [#2528](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2528#issuecomment-1703941189) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+1. 🔒 Closed issue [#2542](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2542) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+2. 🗣 Commented on [#2542](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2542#issuecomment-1703946048) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+3. 🔒 Closed issue [#2539](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2539) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+4. 🔒 Closed issue [#2534](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2534) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+5. 🗣 Commented on [#2534](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2534#issuecomment-1703941425) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
 <!--END_SECTION:activity-->
