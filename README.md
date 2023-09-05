@@ -41,9 +41,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2542](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2542) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-2. 🗣 Commented on [#2542](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2542#issuecomment-1703946048) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-3. 🔒 Closed issue [#2539](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2539) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-4. 🔒 Closed issue [#2534](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2534) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-5. 🗣 Commented on [#2534](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2534#issuecomment-1703941425) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+1. 🗣 Commented on [#32](https://github.com/BlueBubblesApp/bluebubbles-helper/issues/32#issuecomment-1705866233) in [BlueBubblesApp/bluebubbles-helper](https://github.com/BlueBubblesApp/bluebubbles-helper)
+2. 🔒 Closed issue [#32](https://github.com/BlueBubblesApp/bluebubbles-helper/issues/32) in [BlueBubblesApp/bluebubbles-helper](https://github.com/BlueBubblesApp/bluebubbles-helper)
+3. 🔒 Closed issue [#2542](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2542) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+4. 🗣 Commented on [#2542](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2542#issuecomment-1703946048) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+5. 🔒 Closed issue [#2539](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2539) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
 <!--END_SECTION:activity-->
