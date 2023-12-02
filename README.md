@@ -41,9 +41,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [BlueBubbles App v1.12.5](https://github.com/BlueBubblesApp/bluebubbles-app/releases/tag/v1.12.5%2B59) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-2. 🗣 Commented on [#2575](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2575#issuecomment-1835416299) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-3. 🔒 Closed issue [#2575](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2575) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-4. 🗣 Commented on [#2587](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2587#issuecomment-1835394400) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-5. 🔒 Closed issue [#2587](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2587) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+1. 🗣 Commented on [#2573](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2573#issuecomment-1837183248) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+2. 🔒 Closed issue [#2597](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2597) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+3. 🔒 Closed issue [#2593](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2593) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+4. 🔒 Closed issue [#2577](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2577) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+5. 🔒 Closed issue [#2592](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2592) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
 <!--END_SECTION:activity-->
