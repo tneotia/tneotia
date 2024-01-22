@@ -41,9 +41,9 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2627](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2627#issuecomment-1904564373) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-2. 🗣 Commented on [#2636](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2636#issuecomment-1904559888) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-3. 🔒 Closed issue [#2636](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2636) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-4. 🎉 Merged PR [#2650](https://github.com/BlueBubblesApp/bluebubbles-app/pull/2650) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-5. ❗ Opened issue [#2654](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2654) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+1. 🗣 Commented on [#2641](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2641#issuecomment-1904579858) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+2. 🗣 Commented on [#2636](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2636#issuecomment-1904575107) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+3. 🗣 Commented on [#2627](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2627#issuecomment-1904564373) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+4. 🗣 Commented on [#2636](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2636#issuecomment-1904559888) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+5. 🔒 Closed issue [#2636](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2636) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
 <!--END_SECTION:activity-->
