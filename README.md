@@ -6,10 +6,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=tneotia.tneotia)
 
 
-Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying Mechanical Engineering at the Georgia Institute of Technology. 
+Hi! I'm Tanay Neotia. I'm studying Mechanical Engineering at the Georgia Institute of Technology. 
 
-- 👨🏽‍💻 I’m currently working on [HLS Grades](https://github.com/tneotia/HLSGrades) and [BlueBubbles](https://github.com/BlueBubblesApp)
-- 👨🏽‍💻 I primarily code with Flutter in Dart
+- 👨🏽‍💻 I’m currently working on [BlueBubbles](https://github.com/BlueBubblesApp), [GoodGrade](https://github.com/tneotia/HLSGrades), and a few internal tools
+- 👨🏽‍💻 I primarily code in Dart with the Flutter SDK
 - 🌱 I’m dabbling in Objective-C, HTML / JavaScript, and TypeScript
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [tanay at neotia dot in](mailto://tanay@neotia.in)
@@ -32,7 +32,6 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 👨‍💻 **My Top Languages**
 
 <p> <img src="https://github-readme-stats.tneotia.vercel.app/api/top-langs?username=tneotia&theme=dark" alt="tneotia" /> </p>
-
 
 📈 **My GitHub Stats**
 
