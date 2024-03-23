@@ -40,9 +40,9 @@ Hi! I'm Tanay Neotia. I'm studying Mechanical Engineering at the Georgia Institu
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2704](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2704#issuecomment-2007502387) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-2. 🗣 Commented on [#822](https://github.com/BlueBubblesApp/bluebubbles-app/issues/822#issuecomment-1962424006) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-3. 🔒 Closed issue [#822](https://github.com/BlueBubblesApp/bluebubbles-app/issues/822) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-4. 🔒 Closed issue [#2468](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2468) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-5. 🔒 Closed issue [#2677](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2677) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+1. 🗣 Commented on [#2704](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2704#issuecomment-2016549848) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+2. 🗣 Commented on [#2704](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2704#issuecomment-2007502387) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+3. 🗣 Commented on [#822](https://github.com/BlueBubblesApp/bluebubbles-app/issues/822#issuecomment-1962424006) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+4. 🔒 Closed issue [#822](https://github.com/BlueBubblesApp/bluebubbles-app/issues/822) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+5. 🔒 Closed issue [#2468](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2468) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
 <!--END_SECTION:activity-->
