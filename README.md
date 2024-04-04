@@ -40,9 +40,9 @@ Hi! I'm Tanay Neotia. I'm studying Mechanical Engineering at the Georgia Institu
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2704](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2704#issuecomment-2016549848) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-2. 🗣 Commented on [#2704](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2704#issuecomment-2007502387) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-3. 🗣 Commented on [#822](https://github.com/BlueBubblesApp/bluebubbles-app/issues/822#issuecomment-1962424006) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-4. 🔒 Closed issue [#822](https://github.com/BlueBubblesApp/bluebubbles-app/issues/822) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-5. 🔒 Closed issue [#2468](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2468) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+1. 💪 Opened PR [#18](https://github.com/pvsvamsi/Disable-Battery-Optimizations/pull/18) in [pvsvamsi/Disable-Battery-Optimizations](https://github.com/pvsvamsi/Disable-Battery-Optimizations)
+2. 💪 Opened PR [#48](https://github.com/neckaros/secure_application/pull/48) in [neckaros/secure_application](https://github.com/neckaros/secure_application)
+3. 🗣 Commented on [#2704](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2704#issuecomment-2016549848) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+4. 🗣 Commented on [#2704](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2704#issuecomment-2007502387) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+5. 🗣 Commented on [#822](https://github.com/BlueBubblesApp/bluebubbles-app/issues/822#issuecomment-1962424006) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
 <!--END_SECTION:activity-->
