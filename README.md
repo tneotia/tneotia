@@ -40,9 +40,9 @@ Hi! I'm Tanay Neotia. I'm studying Mechanical Engineering at the Georgia Institu
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#49](https://github.com/neckaros/secure_application/pull/49) in [neckaros/secure_application](https://github.com/neckaros/secure_application)
-2. 💪 Opened PR [#604](https://github.com/flutter-ml/google_ml_kit_flutter/pull/604) in [flutter-ml/google_ml_kit_flutter](https://github.com/flutter-ml/google_ml_kit_flutter)
-3. 🎉 Merged PR [#18](https://github.com/BlueBubblesApp/bluebubbles-docs/pull/18) in [BlueBubblesApp/bluebubbles-docs](https://github.com/BlueBubblesApp/bluebubbles-docs)
-4. 💪 Opened PR [#3](https://github.com/gabrielginter/video_thumb_getter/pull/3) in [gabrielginter/video_thumb_getter](https://github.com/gabrielginter/video_thumb_getter)
-5. 💪 Opened PR [#18](https://github.com/pvsvamsi/Disable-Battery-Optimizations/pull/18) in [pvsvamsi/Disable-Battery-Optimizations](https://github.com/pvsvamsi/Disable-Battery-Optimizations)
+1. 🗣 Commented on [#2712](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2712#issuecomment-2050287257) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+2. 💪 Opened PR [#49](https://github.com/neckaros/secure_application/pull/49) in [neckaros/secure_application](https://github.com/neckaros/secure_application)
+3. 💪 Opened PR [#604](https://github.com/flutter-ml/google_ml_kit_flutter/pull/604) in [flutter-ml/google_ml_kit_flutter](https://github.com/flutter-ml/google_ml_kit_flutter)
+4. 🎉 Merged PR [#18](https://github.com/BlueBubblesApp/bluebubbles-docs/pull/18) in [BlueBubblesApp/bluebubbles-docs](https://github.com/BlueBubblesApp/bluebubbles-docs)
+5. 💪 Opened PR [#3](https://github.com/gabrielginter/video_thumb_getter/pull/3) in [gabrielginter/video_thumb_getter](https://github.com/gabrielginter/video_thumb_getter)
 <!--END_SECTION:activity-->
