@@ -40,9 +40,9 @@ Hi! I'm Tanay Neotia. I'm studying Mechanical Engineering at the Georgia Institu
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [BlueBubbles iOS Font v4](https://github.com/tneotia/tneotia/releases/tag/ios-font-4) in [tneotia/tneotia](https://github.com/tneotia/tneotia)
-2. 🗣 Commented on [#2712](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2712#issuecomment-2050287257) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-3. 💪 Opened PR [#49](https://github.com/neckaros/secure_application/pull/49) in [neckaros/secure_application](https://github.com/neckaros/secure_application)
-4. 💪 Opened PR [#604](https://github.com/flutter-ml/google_ml_kit_flutter/pull/604) in [flutter-ml/google_ml_kit_flutter](https://github.com/flutter-ml/google_ml_kit_flutter)
-5. 🎉 Merged PR [#18](https://github.com/BlueBubblesApp/bluebubbles-docs/pull/18) in [BlueBubblesApp/bluebubbles-docs](https://github.com/BlueBubblesApp/bluebubbles-docs)
+1. 🗣 Commented on [#2708](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2708#issuecomment-2050335309) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+2. 🎉 Merged PR [#2713](https://github.com/BlueBubblesApp/bluebubbles-app/pull/2713) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+3. 🚀 Published release [BlueBubbles iOS Font v4](https://github.com/tneotia/tneotia/releases/tag/ios-font-4) in [tneotia/tneotia](https://github.com/tneotia/tneotia)
+4. 🗣 Commented on [#2712](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2712#issuecomment-2050287257) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+5. 💪 Opened PR [#49](https://github.com/neckaros/secure_application/pull/49) in [neckaros/secure_application](https://github.com/neckaros/secure_application)
 <!--END_SECTION:activity-->
