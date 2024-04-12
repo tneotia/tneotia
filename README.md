@@ -40,9 +40,9 @@ Hi! I'm Tanay Neotia. I'm studying Mechanical Engineering at the Georgia Institu
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2708](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2708#issuecomment-2050335309) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-2. 🎉 Merged PR [#2713](https://github.com/BlueBubblesApp/bluebubbles-app/pull/2713) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-3. 🚀 Published release [BlueBubbles iOS Font v4](https://github.com/tneotia/tneotia/releases/tag/ios-font-4) in [tneotia/tneotia](https://github.com/tneotia/tneotia)
-4. 🗣 Commented on [#2712](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2712#issuecomment-2050287257) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-5. 💪 Opened PR [#49](https://github.com/neckaros/secure_application/pull/49) in [neckaros/secure_application](https://github.com/neckaros/secure_application)
+1. 🗣 Commented on [#2693](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2693#issuecomment-2052116680) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+2. 🗣 Commented on [#2708](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2708#issuecomment-2050335309) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+3. 🎉 Merged PR [#2713](https://github.com/BlueBubblesApp/bluebubbles-app/pull/2713) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+4. 🚀 Published release [BlueBubbles iOS Font v4](https://github.com/tneotia/tneotia/releases/tag/ios-font-4) in [tneotia/tneotia](https://github.com/tneotia/tneotia)
+5. 🗣 Commented on [#2712](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2712#issuecomment-2050287257) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
 <!--END_SECTION:activity-->
