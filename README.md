@@ -40,9 +40,9 @@ Hi! I'm Tanay Neotia. I'm studying Mechanical Engineering at the Georgia Institu
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2679](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2679#issuecomment-2068133505) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-2. 🔓 Reopened issue [#2679](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2679) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-3. 🗣 Commented on [#2679](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2679#issuecomment-2068133466) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-4. 🔒 Closed issue [#2679](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2679) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-5. 🔒 Closed issue [#2615](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2615) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+1. 🔓 Reopened issue [#2607](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2607) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+2. 🗣 Commented on [#2679](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2679#issuecomment-2068133505) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+3. 🔓 Reopened issue [#2679](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2679) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+4. 🗣 Commented on [#2679](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2679#issuecomment-2068133466) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+5. 🔒 Closed issue [#2679](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2679) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
 <!--END_SECTION:activity-->
