@@ -40,9 +40,9 @@ Hi! I'm Tanay Neotia. I'm studying Mechanical Engineering at the Georgia Institu
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#422](https://github.com/tneotia/html-editor-enhanced/pull/422#issuecomment-2118849620) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-2. ❌ Closed PR [#422](https://github.com/tneotia/html-editor-enhanced/pull/422) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-3. 🎉 Merged PR [#510](https://github.com/tneotia/html-editor-enhanced/pull/510) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-4. 💪 Opened PR [#31](https://github.com/BlueBubblesApp/BlueBubblesApp.github.io/pull/31) in [BlueBubblesApp/BlueBubblesApp.github.io](https://github.com/BlueBubblesApp/BlueBubblesApp.github.io)
-5. 🔓 Reopened issue [#2607](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2607) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+1. 🗣 Commented on [#439](https://github.com/tneotia/html-editor-enhanced/pull/439#issuecomment-2118869723) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+2. ❌ Closed PR [#439](https://github.com/tneotia/html-editor-enhanced/pull/439) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+3. 🗣 Commented on [#455](https://github.com/tneotia/html-editor-enhanced/pull/455#issuecomment-2118869317) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+4. 🗣 Commented on [#468](https://github.com/tneotia/html-editor-enhanced/pull/468#issuecomment-2118868771) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+5. ❌ Closed PR [#468](https://github.com/tneotia/html-editor-enhanced/pull/468) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
 <!--END_SECTION:activity-->
