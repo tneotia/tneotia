@@ -40,9 +40,9 @@ Hi! I'm Tanay Neotia. I'm studying Mechanical Engineering at the Georgia Institu
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.6.0](https://github.com/tneotia/html-editor-enhanced/releases/tag/v2.6.0) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-2. 🗣 Commented on [#439](https://github.com/tneotia/html-editor-enhanced/pull/439#issuecomment-2118869723) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-3. ❌ Closed PR [#439](https://github.com/tneotia/html-editor-enhanced/pull/439) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-4. 🗣 Commented on [#455](https://github.com/tneotia/html-editor-enhanced/pull/455#issuecomment-2118869317) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-5. 🗣 Commented on [#468](https://github.com/tneotia/html-editor-enhanced/pull/468#issuecomment-2118868771) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+1. 🗣 Commented on [#479](https://github.com/tneotia/html-editor-enhanced/issues/479#issuecomment-2118897703) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+2. 🗣 Commented on [#432](https://github.com/tneotia/html-editor-enhanced/issues/432#issuecomment-2118896932) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+3. 🔒 Closed issue [#432](https://github.com/tneotia/html-editor-enhanced/issues/432) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+4. 🗣 Commented on [#371](https://github.com/tneotia/html-editor-enhanced/issues/371#issuecomment-2118896878) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+5. 🔒 Closed issue [#371](https://github.com/tneotia/html-editor-enhanced/issues/371) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
 <!--END_SECTION:activity-->
