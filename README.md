@@ -40,9 +40,9 @@ Hi! I'm Tanay Neotia. I'm studying Mechanical Engineering at the Georgia Institu
 :zap: **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#479](https://github.com/tneotia/html-editor-enhanced/issues/479#issuecomment-2118897703) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-2. 🗣 Commented on [#432](https://github.com/tneotia/html-editor-enhanced/issues/432#issuecomment-2118896932) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-3. 🔒 Closed issue [#432](https://github.com/tneotia/html-editor-enhanced/issues/432) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-4. 🗣 Commented on [#371](https://github.com/tneotia/html-editor-enhanced/issues/371#issuecomment-2118896878) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
-5. 🔒 Closed issue [#371](https://github.com/tneotia/html-editor-enhanced/issues/371) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+1. 🗣 Commented on [#2697](https://github.com/BlueBubblesApp/bluebubbles-app/pull/2697#issuecomment-2138370920) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
+2. 🗣 Commented on [#479](https://github.com/tneotia/html-editor-enhanced/issues/479#issuecomment-2118897703) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+3. 🗣 Commented on [#432](https://github.com/tneotia/html-editor-enhanced/issues/432#issuecomment-2118896932) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+4. 🔒 Closed issue [#432](https://github.com/tneotia/html-editor-enhanced/issues/432) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
+5. 🗣 Commented on [#371](https://github.com/tneotia/html-editor-enhanced/issues/371#issuecomment-2118896878) in [tneotia/html-editor-enhanced](https://github.com/tneotia/html-editor-enhanced)
 <!--END_SECTION:activity-->
